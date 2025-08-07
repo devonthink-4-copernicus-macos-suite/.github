@@ -17,7 +17,7 @@ DEVONthink 4 Copernicus is an advanced data management platform for macOS that i
 A quick look at key parts in action:  
 - ![](https://www.devontechnologies.com/media/pages/blog/20250626-devonthink-40-copernicus/dd6a09d3aa-1750932978/packshot-devonthink.png)  
 - ![](https://512pixels.net/wp-content/uploads/2025/07/devonthink4.png)
-- 
+
 ## 🎯 Key Features  
 ⚡️ AI-driven tagging, search suggestions, and content classification.  
 🔒 Fully encrypted databases with offline access and local processing.  
